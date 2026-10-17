@@ -27,6 +27,5 @@ La landing existente permanece en `nodeq.com.mx`. Esta aplicación se desplegar�
 - Añadir Turnstile, Resend y el secreto de cron.
 - Aplicar migraciones a Neon y probar una reserva completa.
 - Cambiar los CTA de la landing a `https://agenda.nodeq.com.mx/reservar`.
-- > Configuración de Cloudflare Workers actualizada el 17 de octubre de 2026.
 
 No se debe publicar el subdominio como agenda funcional hasta completar las fases de interfaz y Calendar.
